@@ -1,0 +1,50 @@
+.pipeline-info {
+    max-width: 25% !important;
+    margin-right: 20px;
+}
+
+#main-panel>h1 {
+    display: none !important;
+}
+
+.revision {
+    background: orange;
+}
+
+.revision .title {
+    color: black;
+    font-weight: bold;
+}
+
+.revision .description ul li {
+    color: black;
+    font-size: 12px !important;
+}
+
+.pipelines tr .header {
+    font-weight: bold;
+}
+
+.rounded {
+    -webkit-opacity: 1;
+    opacity: 1;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#manualExecutionForm {
+    background: rgb(29, 29, 29) !important;
+    color: #fff !important;
+}
+
+.pipeline-wrapper {
+    background: rgb(29, 29, 29) !important;
+    border-top: 2px solid #d2d2d2;
+}
+
+.icon-container span {
+    color: #fff;
+    font-weight: bold;
+}
