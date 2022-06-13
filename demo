@@ -1,0 +1,16 @@
+<div style="font-family: helvetica;">
+	<table width="100%">
+		<tr>
+			<th align="left">Country</th><th align="left">Number</th>
+		</tr>
+		<tr>
+			<td>🇨🇿 Czechia</td><td><a href="tel:+420 123 456 789">+420 123 456 789</a></td>
+		</tr>
+		<tr>
+			<td>🇩🇰 Denmark</td><td><a href="tel:">+45 123 456 789</a></td>
+		</tr>
+		<tr>
+			<td>🇪🇪 Estonia</td><td><a href="tel:">+372 123 456 789</a></td>
+		</tr>
+	</table>
+</div>
